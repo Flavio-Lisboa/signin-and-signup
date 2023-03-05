@@ -2,7 +2,7 @@
 
 
 
-# About the project
+## About the project
 
 
 Sign In and Sign Up system, with token verification and API access
@@ -11,14 +11,14 @@ Sign In and Sign Up system, with token verification and API access
 
 ![api](https://user-images.githubusercontent.com/64932502/222987561-63434ea0-518f-4496-878a-26afe5dd46fa.gif)
 
-# Features
+## Features
 
 - [x] Register
 - [x] Login
 - [x] Reset Password
 - [x] Access the apis
 
-# Technologies 
+## Technologies 
 
 - Java 11
 - Spring Boot
@@ -27,7 +27,7 @@ Sign In and Sign Up system, with token verification and API access
 - MySql
 - OAuth2
 
-# Autor
+## Autor
 
 Flavio Fernandes Lisboa
 
